@@ -8,6 +8,7 @@ Test File #1
 1 0 0 1 0
 1 1 1 0 1 
 0 1 0 1 0
+
 Hamiltonian Circuit Path: 0,1,4,3,2,0
 
 
@@ -17,6 +18,7 @@ Test File #2
 0 1 0 0 1
 1 1 0 0 0
 0 1 1 0 0
+
 Hamiltonian Circuit does not exist!
 
 
@@ -26,5 +28,6 @@ Test File #3
 0 0 0 1 1
 1 0 1 0 1
 0 1 1 1 0
+
 Hamiltonian Circuit Path: 0,1,4,2,3,0
 
